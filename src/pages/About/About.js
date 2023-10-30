@@ -4,7 +4,7 @@ import WOW from 'wowjs';
 import Title from "../../components/Title/Title";
 import styles from "./about.module.scss";
 import { FaDownload } from "react-icons/fa";
-import myImage from '../../assets/myImage2.png'
+import myImage from '../../assets/myImage3.jpeg'
 
 export default function About() {
   useEffect(() => {
@@ -36,7 +36,7 @@ export default function About() {
                 in HTML, SCSS, ES6,...
               </p>
               <div className={styles.aboutBtn}>
-                <a href="https://www.topcv.vn/xem-cv/VlUJBgIEVgRRAApUAFNQV1FRBwMMU1dTBFRVUQ6e7e" target='black'>
+                <a href="#" >
                   <FaDownload /> Download Resume
                 </a>
               </div>

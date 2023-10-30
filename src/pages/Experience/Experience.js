@@ -11,15 +11,8 @@ export default function Experience() {
             title: "WEB ENGINEERING STUDENT",
             year: '03/2022 - NOW',
             inst: 'FPT POLYTECHNIC',
-            desc: 'GPA: 9.1/10'
-        },
-        {
-            icon: <FaGraduationCap />,
-            title: 'FRONTEND STUDENT',
-            year: '09/2022 - 05/2023',
-            inst: 'CyberSoft Academy',
-            desc: 'Learning Frontend skills: HTML, SCSS, Javascript, ES6, Restful API, ReactJS, Redux'
-        },
+            desc: ''
+        }
     ];
 
   return (
