@@ -35,7 +35,7 @@ export default function Skills() {
     {
       icon: <FiUsers />,
       title: "KNOWLEDGE",
-      desc: ["Good understanding about the Agile and Scrum process", "Good time management, presentation and teamwork skills"],
+      desc: ["Good time management, presentation and teamwork skills"],
     },
   ]
 
