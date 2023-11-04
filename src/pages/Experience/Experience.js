@@ -16,7 +16,8 @@ export default function Experience() {
     ];
 
   return (
-    <div style={{paddingTop: 70}} id='experience'>
+    <div style={{paddingTop: 50, position: 'relative'}}>
+        <div id='experience' className={styles.experienceLine}></div>
         <div className={styles.experience}>
             <div className="container">
                 <Title title='Experience' className={styles.title}/>
