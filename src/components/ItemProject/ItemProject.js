@@ -14,7 +14,7 @@ export default function ItemProject({item}) {
         <div className={styles.image}>
           <img src={item.img} alt="" />
         </div>
-        <a href={item.link} className={styles.overlay}>
+        <a href={item.link} target='blank' className={styles.overlay}>
           <h3>{item.type}</h3>
         </a>
       </div>

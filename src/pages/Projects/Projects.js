@@ -14,32 +14,32 @@ export default function Projects() {
     {
       type: "Vlearning",
       img: vlearning,
-      link: "#",
+      link: "https://vlearning-three.vercel.app/",
     },
     {
       type: "Admin Vlearning",
       img: adminVlearning,
-      link: "#",
+      link: "https://adminvlearning.vercel.app/",
     },
     {
       type: "Movie Tickets",
       img: movieTickets,
-      link: "#",
+      link: "https://booking-movie-ticket032.vercel.app/",
     },
     {
       type: "Shopping Cart",
       img: shoppingCart,
-      link: "#",
+      link: "https://shopping-cart-rose-alpha.vercel.app/",
     },
     {
       type: "Products Management System",
       img: productsManagement,
-      link: "#",
+      link: "https://products-management-one.vercel.app/",
     },
     {
       type: "Samar",
       img: samar,
-      link: "#",
+      link: "https://samar-ruddy.vercel.app/",
     },
   ];
   return (

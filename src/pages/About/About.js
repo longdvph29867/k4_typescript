@@ -4,7 +4,7 @@ import WOW from 'wowjs';
 import Title from "../../components/Title/Title";
 import styles from "./about.module.scss";
 import { FaDownload } from "react-icons/fa";
-import myImage from '../../assets/myImage3.jpeg'
+import myImage from '../../assets/myImage2.png'
 
 export default function About() {
   useEffect(() => {
